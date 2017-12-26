@@ -1,8 +1,3 @@
-'''
-Created on Dec 17, 2017
-
-@author: Administrator
-'''
 
 from threading import Thread
 import cv2
