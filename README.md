@@ -7,7 +7,7 @@
 
 # Introduction
 Andy Robot still used in this project, it could can self-driving on the track and detecting Stop Sign with stop for 5s.
-###### Android-Things (Andy Robot)
+###### Android-Things - To see Robot Code: [Andy Robot] (https://github.com/masaruhoang/AndroidThings-RaspberryPi-Kotlin-AndyRobot/).
 - Raspeberry Pi3  Model B
 ###### Computer
 - Supervised Learning with ANN (Artificial Neural Network).
@@ -26,7 +26,7 @@ Andy Robot still used in this project, it could can self-driving on the track an
 - cv2 (OpenCV 3.3.0.1)
 - pyrebase (latest version)
 # System Design
-![Alt text](https://andpythings.files.wordpress.com/2017/12/system-design.png")
+![Alt text](https://andpythings.files.wordpress.com/2017/12/system-design.png)
 # Functions
 - **ANN folder** : Contain Init Neural Network class.
 - **camera_thread folder** : Contain Init and methods using run camera in Background thread to avoid block Main thread.
