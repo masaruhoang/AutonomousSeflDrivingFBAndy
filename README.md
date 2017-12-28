@@ -43,4 +43,4 @@ Andy Robot still used in this project, it could can self-driving on the track an
 - **ann_trainer.py** —> When we fully have npz file, start training dataset and model    which will be saved such as weightxml.xml in weightXML folder.
 - **camera_main.py** —> Prediction dely on trained dataset and give results. Then, send that results to Firebase
 
-## Thank AutoRCCar – hamuchiwa so much for detail tutorial on the blog and code to refer.
+## Thank AutoRCCar – hamuchiwa so much for detail tutorial on the blog
