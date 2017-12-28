@@ -1,9 +1,9 @@
 # Self Driving Firebase Andy Robot
-## AndroidThingsAndyRobot
-## Dwayne Hoang
-## OpenCV, Machine Learning
-## Java, Kotlin, Python
-## MY BLOG: https://andpythings.wordpress.com
+###### AndroidThingsAndyRobot
+###### Dwayne Hoang
+###### OpenCV, Machine Learning
+###### Python
+###### MY BLOG: https://andpythings.wordpress.com
 
 # Introduction
 Andy Robot still used in this project, it could can self-driving on the track and detecting Stop Sign with stop for 5s.
